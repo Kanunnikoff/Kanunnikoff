@@ -2,7 +2,7 @@
 
 Android Developer at Sportmaster LLC, O’STIN app team
 
-My personal apps on Google Play and App Store can be found by the same developer name.
+My personal apps on Google Play and App Store can be found by the 'Dmitry Kanunnikoff' developer name.
 
 Prefer Kotlin for Android development and Swift (SwiftUI) for iOS. Have some experience in Flutter and Unity.
 
