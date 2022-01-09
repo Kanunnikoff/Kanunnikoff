@@ -11,8 +11,7 @@ Prefer Kotlin for Android development and Swift (SwiftUI) for iOS. Have some exp
 Moscow, Russia 🇷🇺
 
 [![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanunnikoff&show_icons=true&&theme=dark)](https://github.com/Kanunnikoff)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanunnikoff&langs_count=10)](https://github.com/Kanunnikoff)
-[![Dmitry's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kanunnikoff)](https://github.com/Kanunnikoff)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanunnikoff&layout=compact&langs_count=10)](https://github.com/Kanunnikoff)
 
 <!--
 **Kanunnikoff/Kanunnikoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
