@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-Android Developer at Sportmaster LLC, O’STIN app team 
+Android Developer at SM Lab LLC, O’STIN app team 
 
 My personal apps on Google Play and App Store can be found by the 'Dmitry Kanunnikoff' developer name.
 
